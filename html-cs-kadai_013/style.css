@@ -28,6 +28,8 @@ PC用のスタイル
     display: none;
   }
 
+
+
   #nav-sp {
     display: none;
   }
@@ -87,7 +89,7 @@ PC用のスタイル
   #nav-sp {
     display: none;
     background-color: #ce933e;
-    padding: 0;
+
     height: 100%;
     width: 100%;
     left: 0;
